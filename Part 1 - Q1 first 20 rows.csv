@@ -1,0 +1,21 @@
+event_date,channel,users,sessions,transactions,revenue_usd
+2020-11-01,Direct,555,607,6,332
+2020-11-01,Email,0,0,0,0
+2020-11-01,Organic Search,857,938,2,183
+2020-11-01,Organic Social,0,0,0,0
+2020-11-01,Other,449,519,2,94
+2020-11-01,Paid Search,101,113,0,0
+2020-11-01,Paid Social,0,0,0,0
+2020-11-01,Referral,403,448,4,164
+2020-11-02,Direct,749,856,17,1372
+2020-11-02,Email,0,0,0,0
+2020-11-02,Organic Search,1103,1262,12,965
+2020-11-02,Organic Social,0,0,0,0
+2020-11-02,Other,673,765,8,748
+2020-11-02,Paid Search,177,204,3,137
+2020-11-02,Paid Social,0,0,0,0
+2020-11-02,Referral,560,639,9,1567
+2020-11-03,Direct,1087,1248,11,677
+2020-11-03,Email,0,0,0,0
+2020-11-03,Organic Search,1701,1970,12,1007
+2020-11-03,Organic Social,0,0,0,0
